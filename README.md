@@ -7,3 +7,5 @@
 ## running interactive ruby to call worker
 
 - bundle exec irb -r ./runner.rb
+
+![alt text] (file:///home/leandro/Imagens/sidekiq.png)
